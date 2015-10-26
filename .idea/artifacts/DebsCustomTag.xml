@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="DebsCustomTag">
+    <output-path>$PROJECT_DIR$/out/artifacts/DebsCustomTag</output-path>
+    <root id="archive" name="DebsCustomTag.jar">
+      <element id="module-output" name="DebsCustomTag" />
+      <element id="directory" name="META-INF">
+        <element id="dir-copy" path="$PROJECT_DIR$/META-INF" />
+      </element>
+    </root>
+  </artifact>
+</component>
